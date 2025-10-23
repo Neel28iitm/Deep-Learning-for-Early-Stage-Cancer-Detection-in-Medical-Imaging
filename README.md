@@ -1,4 +1,4 @@
-# DA6401 Assignment 3 – Part A: Character-Level Transliteration using Seq2Seq Models
+##Deep Learning for Early-Stage Cancer Detection in Medical Imaging
 
 This project implements a character-level sequence-to-sequence transliteration model using the [Dakshina dataset](https://github.com/google-research-datasets/dakshina). The goal is to map words written in Roman script to native Devanagari script, e.g., `ghar → घर`.
 
